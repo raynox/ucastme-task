@@ -13,7 +13,7 @@ You will also see any errors in the console.
 
 Launches the test runner in the interactive watch mode.<br />
 
-### Building standalone apps
+## Building standalone apps
 
 https://docs.expo.io/versions/latest/distribution/building-standalone-apps/
 
