@@ -13,6 +13,10 @@ You will also see any errors in the console.
 
 Launches the test runner in the interactive watch mode.<br />
 
+### Building standalone apps
+
+https://docs.expo.io/versions/latest/distribution/building-standalone-apps/
+
 Tested on:
 
 - iPhone 8 and iPhone 11
