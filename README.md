@@ -17,7 +17,7 @@ Launches the test runner in the interactive watch mode.<br />
 
 https://docs.expo.io/versions/latest/distribution/building-standalone-apps/
 
-### Tested on:
+## Tested on:
 
 - iPhone 8 and iPhone 11
 - Android R (Pixel 2)
