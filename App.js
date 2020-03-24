@@ -8,6 +8,7 @@ import rootSaga from './src/base/redux/sagas';
 import { Provider } from 'react-redux';
 import { bool } from 'prop-types';
 
+console.disableYellowBox = true;
 const store = createStore();
 store.runSaga(rootSaga);
 
