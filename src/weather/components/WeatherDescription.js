@@ -21,7 +21,6 @@ const styles = StyleSheet.create({
         color: variables.navyBlue,
         fontSize: 10,
         fontFamily: 'roboto-bold',
-        marginBottom: 5,
     }
 });
 
